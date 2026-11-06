@@ -58,11 +58,11 @@
     <properties>
         <!-- util -->
         <guava.version>21.0</guava.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-collections4.version>4.1</commons-collections4.version>
 
         <!-- testing -->
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
     </properties>
 
 </project>
